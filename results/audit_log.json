@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2026-06-28T04:28:22.948721",
+        "behaviour": "PHONE_USE",
+        "confidence": 0.82,
+        "features": {
+            "person_detected": 1,
+            "phone_detected": 1,
+            "phone_confidence": 0.82,
+            "head_asymmetry": 0.15
+        },
+        "explanation": {
+            "Behaviour": "PHONE_USE",
+            "Confidence": 0.82,
+            "Reasons": [
+                "Cell phone detected (confidence = 0.82)"
+            ]
+        }
+    }
+]
